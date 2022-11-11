@@ -1,5 +1,5 @@
 #Church memebership management system.
-This project is designed to manage registration for church members
+This project is designed to registration church members and manage church finances .
 it Captures; 
 Personal data
 Place of birth origin and residence
